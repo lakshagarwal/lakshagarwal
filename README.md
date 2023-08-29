@@ -1,43 +1,46 @@
-### Hi there 👋
+### Hello there! I'm Laksh Agarwal👋
 
-I'm Laksh, a passionate software developer and researcher currently pursuing my B.Sc. in Computing Science from Simon Fraser University. I specialize in web development, AI, and am deeply involved in cutting-edge research. Always eager to learn and explore new horizons!
+🎓 **Education:** I'm a fourth-year student at Simon Fraser University working towards a B.Sc. in Computing Science. Alongside my major, I'm also pursuing a Certificate in Innovation and Entrepreneurship.
 
-### 🛠 Technical Skills
+🔭 **Interests:** I'm deeply passionate about software development, AI, and cutting-edge research. My journey so far has allowed me to explore everything from web development to in-depth research at the intersection of technology and innovation.
 
-**Languages:** Java, Python, C/C++, SQL, React, JavaScript, TypeScript, HTML, CSS, Haskell, Dart, Latex, MATLAB
+---
 
-**Technologies:** Selenium, MS SQL, SQLite, Flutter, RISC-V, WordPress, Stata, Figma
+### 🔧 Technical Skills
 
-**Developer Tools:** Git, Jira, Docker, Android Studio, VS Code, IntelliJ
+- **Languages:** Java, Python, JavaScript, TypeScript, C/C++, SQL, Dart
+- **Frameworks & Libraries:** React, Flutter
+- **Technologies:** Selenium, MS SQL, SQLite, HTML, CSS, WordPress, Figma
+- **Tools:** Git, VS Code, IntelliJ, Android Studio, Docker, Jira
 
-### 💼 Work Experience
+---
 
-**AI Research Lab, Simon Fraser University** - *Software Developer - AI (Co-op)*
-- Focus on design and deployment of Artificial Intelligence systems for unique use cases.
+### 🧠 Experience
 
-**OPA Lab, Simon Fraser University** - *Research Assistant*
-- Collaborated with a team for comprehensive research plans leading to the publication of high-impact academic papers.
-- Aided in the design and implementation of experimental studies across cutting-edge research projects.
-- Leveraged Stata for research data analysis, distilling complex findings into clear insights.
+**Software Developer - AI (Co-op) | AI Research Lab, Simon Fraser University**
+- Designing and deploying AI systems for distinct use cases.
 
-**Thrive Health Inc., Vancouver** - *Software Developer - Web (Co-op)*
-- Played a pivotal role in enhancing web-based healthcare applications using TypeScript.
-- Developed and maintained automated regression tests using Selenium and xRay.
+**Research Assistant | OPA Lab, Simon Fraser University**
+- Collaborative research leading to several academic papers in esteemed journals.
+- Spearheaded experimental study designs for innovative research projects.
+- Extensive data analysis using Stata, transforming intricate data into actionable insights.
+
+**Software Developer - Web (Co-op) | Thrive Health Inc., Vancouver**
+- Enhanced numerous web-based healthcare applications.
+- Established a suite of automated regression tests with Selenium and xRay.
 - Assisted in the hiring and onboarding of new developers.
 
-### 🌱 Projects
-
-- **Cybernetic Sabotage WebApp**: An open-source, interactive browser-based educational game developed using JavaScript, HTML, CSS, and SQLite.
-- **SQL Election Database**: Comprehensive SQL database storing extensive details about the Canadian Federal Election.
-- **AstroDash - Arcade Style Game**: An arcade-style game built with Java and Maven, emphasizing comprehensive system design and testing.
-
-### 📚 Education
-
-**Simon Fraser University, Burnaby, BC** - B.Sc. in Computing Science, Certificate in Innovation and Entrepreneurship
-- Expected Graduation: April 2024
-- GPA: 3.78
-
-### 📬 Get in Touch
-
-- LinkedIn: [lakshagarwal](https://linkedin.com/in/lakshagarwal)
 ---
+
+### 🖥️ Projects
+
+- **Cybernetic Sabotage WebApp:** Open-source & interactive game built with JavaScript, HTML, CSS, and SQLite.
+- **Deny and Conquer - Multiplayer Game:** Real-time multiplayer game using Java, focusing on socket programming.
+- **SQL Election Database**: Comprehensive SQL database storing extensive details about the Canadian Federal Election.
+- **AstroDash:** Arcade game emphasizing system design & testing, developed using Java and Maven.
+
+---
+
+### 🌐 Let's Connect!
+
+- 📌 [LinkedIn](https://linkedin.com/in/lakshagarwal)
