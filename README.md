@@ -38,6 +38,7 @@
 - **Deny and Conquer - Multiplayer Game:** Real-time multiplayer game using Java, focusing on socket programming.
 - **SQL Election Database**: Comprehensive SQL database storing extensive details about the Canadian Federal Election.
 - **AstroDash:** Arcade game emphasizing system design & testing, developed using Java and Maven.
+- **Order Management App**: Cross-platform mobile app for restaurant order and payments tracking, developed using Flutter and Dart.
 
 ---
 
