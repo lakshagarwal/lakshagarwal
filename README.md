@@ -18,7 +18,7 @@
 ### 🧠 Experience
 
 **Software Developer - AI (Co-op) | AI Research Lab, Simon Fraser University**
-- Designing and deploying AI systems for distinct use cases.
+- Designing and deploying AI systems for unique use cases.
 
 **Research Assistant | OPA Lab, Simon Fraser University**
 - Collaborative research leading to several academic papers in esteemed journals.
